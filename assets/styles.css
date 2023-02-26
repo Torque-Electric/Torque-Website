@@ -1,9 +1,9 @@
 section#hero {
-    min-height: 90vh;
+    height: 90vh;
 }
 
 #hero-image {
-    margin-top: 20%;
+    margin-top: 35vh;
 }
 
 * {
